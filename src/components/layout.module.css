@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+}
+.app {
+    width: 96%;
+    margin: 12px auto;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+.header {
+    width: 96%;
+    height: 58px;
+    margin: 12px auto;
+}
+
+.mainContainer {
+    width: 96%;
+    margin: 12px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation {
+    width: 20%;
+    height: 180px;
+}
+
+.main {
+    width: 76%;
+    height: 240px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.containSub {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.subcontent {
+    width: 26%;
+    height: 160px;
+    margin-top: 12px;
+}
+
+.advertisement {
+    margin: 12px 12px;
+    height: 48px;
+}

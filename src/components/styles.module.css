@@ -1,0 +1,27 @@
+.mainColor {
+    background-color: #e06666;
+}
+
+.appColor {
+    background-color: #dddddd;
+}
+
+.headerColor {
+    background-color: #6aa84f;
+}
+
+.navigationColor {
+    background-color: #6fa8dc;
+}
+
+.subContentColor {
+    background-color: #ffd966;
+}
+
+.advertisementColor {
+    background-color: #b4a7d6;
+}
+
+.border {
+    border: solid black 2px;
+}
